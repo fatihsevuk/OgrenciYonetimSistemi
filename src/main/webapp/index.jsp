@@ -8,6 +8,21 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+    	<div align="center">
+    	
+    		<h1>Öğrenci Yönetim Sistemine Hoşgeldiniz</h1>
+    		
+    		<table>
+    		
+    		<tr>
+    		
+    		<td><a href="Login.jsp">Giriş Yap</a></td>
+    		<td><a href="Register.jsp">Kayıt Ol</a></td>
+    		</tr>
+    		
+    		</table>
+    	
+    	</div>
+        
     </body>
 </html>
